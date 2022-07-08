@@ -4,14 +4,14 @@
 - I have knowledge of JS, TS, JAVA, C# and Python.
 - I like web development.
 
-# Actual Proyects
+# Actual Projects
 - Plugins for pocketmine (JLMessages and MultiWorldItems).
 - Laravel web application.
 
 # Work in progress
 ## Php
 - ### Pocketmine
-  - World generator\manager.
+  - World generator\manager (Finished, fixing bugs).
   - Player vs Player gamemodes.
   - Form creator with FormApi
   - coming soon..
